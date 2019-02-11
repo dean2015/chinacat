@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.github.chinacat.eventbus.config.property.MqProperties,\
+com.github.chinacat.eventbus.config.MqConfig,\
+com.github.chinacat.eventbus.config.ListenerConfig,\
+com.github.chinacat.eventbus.config.EventBusConfig

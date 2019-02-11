@@ -18,7 +18,7 @@ public class RetryAspect {
 
     private static final Logger log = LoggerFactory.getLogger(RetryAspect.class);
 
-    @Pointcut("@annotation(com.chinacat.retry.Retry)")
+    @Pointcut("@annotation(com.github.chinacat.retry.Retry)")
     public void retryPoint() {
     }
 

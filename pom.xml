@@ -10,6 +10,7 @@
     <version>1.0.0</version>
     <modules>
         <module>chinacat-starter-retry</module>
+        <module>chinacat-starter-eventbus</module>
     </modules>
 
     <licenses>
